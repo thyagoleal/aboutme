@@ -7,15 +7,11 @@
 * My current scientific interests are: molecular biology, transcriptomics, infectious diseases, and applied statistics 🔢
 * I work mainly with R, Bash 🐧, and Python 🐍, but I'm also interested in learning Rust 🦀
 
-#####
 [![Google Scholar Badge](https://img.shields.io/badge/Scholar-Google%20Scholar-green)](https://scholar.google.com/citations?user=OXeOfZMAAAAJ&hl)
 [![Twitter Badge](https://img.shields.io/badge/-@thyagohills-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thyagohills)](https://twitter.com/thyagohills)
-
 
 <p align = "left">
  <img src = "https://github-readme-stats.vercel.app/api?username=thyagoleal&show_icons=true&theme=merko">
 </p>
 <br/>
-
-Last updated:  05/02/2022
-
+Last updated: 05/02/2022
