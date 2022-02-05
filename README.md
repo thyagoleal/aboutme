@@ -11,7 +11,7 @@ In my free time I enjoy reading :book:, painting :paintbrush:, hiking ⛰️, an
 
 <p align = "left">
  <img src = "https://github-readme-stats.vercel.app/api?username=thyagoleal&show_icons=true&theme=merko">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoleal&theme=merko&show_icons=true&hide_border=true" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoleal&theme=merko&show_icons=true&hide_border=true&hide=html" />
 </p>
 <br/>
 
