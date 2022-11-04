@@ -1,7 +1,7 @@
 ### Hi, there!
 
 * I'm Thyago :rainbow_flag:: biologist by training ☣️, nature-lover by design :leaves:, and  programmer by choice :man_technologist:
-* I'm currently finishing my :mortar_board: PhD at FIOCRUZ, where I worked with transcriptomics of leprosy 🦠
+* I've got my :mortar_board: PhD at FIOCRUZ, where I worked with transcriptomics of leprosy 🦠
 * I'm passionate about molecular biology :dna:, bioinformatics :desktop_computer:, data science 📊, and Open Science :unlock:
 * In my free time I enjoy reading :book:, painting :paintbrush:, hiking ⛰️, and occasionally breaking/assembling things ⚙️
 * My current scientific interests are: molecular biology, transcriptomics, infectious diseases, and applied statistics 🔢
