@@ -4,7 +4,7 @@
 * I've got my :mortar_board: PhD at FIOCRUZ, where I worked with transcriptomics of leprosy 🦠
 * I'm passionate about molecular biology :dna:, bioinformatics :desktop_computer:, data science 📊, and Open Science :unlock:
 * In my free time I enjoy reading :book:, painting :paintbrush:, hiking ⛰️, and occasionally breaking/assembling things ⚙️
-* My current scientific interests are: molecular biology, transcriptomics, infectious diseases, and applied statistics 🔢
+* My current scientific interests are: molecular biology, gene expression reprogramming, gene editing, transcriptomics, infectious diseases, and applied statistics 🔢
 * I work mainly with R, Bash 🐧, and Python 🐍, but I'm also interested in learning Rust 🦀
 
 [![Google Scholar Badge](https://img.shields.io/badge/Scholar-Google%20Scholar-green)](https://scholar.google.com/citations?user=OXeOfZMAAAAJ&hl)
